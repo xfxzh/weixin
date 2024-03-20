@@ -1,0 +1,72 @@
+/* pages/login/login.wxss */
+page{
+	background-color: #f0f0f0;
+	padding: 5px;
+}
+.box{
+	height: 140px;
+	background-color: #fff;
+	margin: 10px;
+	border-radius: 10px;
+}
+.box1{
+	line-height: 30px;
+	height: 30px;
+	margin-top: 10px;
+}
+/* input{
+	background-color: aquamarine;
+	width: 20px;
+} */
+.box3{
+	margin-left: 5px;
+	display: flex;
+	height: 40px;
+	background-color: #fff;
+	line-height: 40px;
+	border-radius: 5px;
+	margin-top: 10px;
+}
+.kai{
+	margin: 5px 0;
+}
+.von{
+	margin: 10px 0;
+	background-color: #fff;
+	display: flex;
+	justify-content: space-around;
+	height: 40px;
+	line-height: 40px;
+
+}
+.ite{
+	line-height: 40px;
+	margin-top: 5px;
+	background-color: #fff;
+	display: flex;
+	justify-content: space-around;
+	height: 40px;
+}
+.ii{
+	display: flex;
+	background-color: #fff;
+	margin-top: 10px;
+	width: 280px;
+	height: 40px;
+	justify-content: space-around;
+	align-items: center;
+}
+.zi{
+	text-align: center;
+	width: 50px;
+	height: 30px;
+	line-height: 30px;
+	background-color: #f1f1f1;
+	border-radius: 40%;
+}
+.box5{
+	line-height: 30px;
+	height: 30px;
+	margin-top: 10px;
+	border: 1px solid #666666;
+}

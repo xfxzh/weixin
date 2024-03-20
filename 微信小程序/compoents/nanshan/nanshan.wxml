@@ -1,0 +1,29 @@
+<!--compoents/nanshan/nanshan.wxml-->
+<view class="box">
+<view class="box1">
+<view class="p">南山路店</view>
+</view>
+<view class="box1">
+<view class="left">
+<view class="ic"></view>
+<view class="tet">浙江杭州西湖区南山路2-1904</view>
+</view>
+<view class="right" bindtap="fn" >地图</view>
+</view>
+
+<view class="box1">
+<view class="left">
+<view class="ic"></view>
+<view class="tet">营业时间</view>
+</view>
+<view class="right">9：00-22：00</view>
+</view>
+
+<view class="box1">
+<view class="left">
+<view class="ic"></view>
+<view class="tet">联系电话</view>
+</view>
+<view class="right">0571-888666555</view>
+</view>
+</view>

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "my-banner":"/compoents/banner/banner",
+    "my-nanshan":"/compoents/nanshan/nanshan",
+    "my-list":"/compoents/list/list"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/inde/inde",
+    "pages/home/home",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/gou/gou",
+    "pages/login/login",
+    "compoents/list/list"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "学习小程序（自定义）",
+    "navigationBarBackgroundColor": "#e7a340"
+  },
+  "componentFramework": "glass-easel",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents",
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "/nav/home-off.png",
+      "selectedIconPath":"/nav/home-on.png"
+      },
+      {
+        "pagePath": "pages/inde/inde",
+        "text": "分类",
+        "iconPath": "/nav/ic_catefory_normal.png",
+      "selectedIconPath":"/nav/ic_catefory_pressed.png"
+
+      },
+      {
+        "pagePath": "pages/gou/gou",
+        "text": "购物车",
+        "iconPath": "/nav/cart-off.png",
+      "selectedIconPath":"/nav/cart-on.png"
+
+      },
+      {
+        "pagePath": "pages/login/login",
+        "text": "我的",
+        "iconPath": "/nav/my-off.png",
+      "selectedIconPath":"/nav/my-on.png"
+
+      }
+    ]
+  },
+  "usingComponents": {
+    "van-button": "@vant/weapp/button/index",
+    "van-sidebar": "@vant/weapp/sidebar/index",
+    "van-sidebar-item": "@vant/weapp/sidebar-item/index"
+  }
+}

@@ -1,0 +1,24 @@
+<!--compoents/list/list.wxml-->
+<view class="box1">
+<view class="dian">店家推荐</view>
+<view class="box">
+<view class="tu">
+<view class="img">
+<image src="./img/fanqie.png" mode="" class="img" />
+</view>
+<view class="text">馋肉</view>
+</view>
+<view class="tu">
+<view class="">
+	<image src="./img/fanqie.png" mode="" class="img" />
+</view>
+<view class="text">馋肉</view>
+</view>
+<view class="tu">
+<view class="">
+<image src="./img/fanqie.png" mode="" class="img" />
+</view>
+<view class="text">馋肉</view>
+</view>
+</view>
+</view>

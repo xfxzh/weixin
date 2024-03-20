@@ -1,0 +1,27 @@
+<view class="box">
+<view class="box1">
+<van-sidebar active-key="{{ activeKey }}">
+  <van-sidebar-item title="汤面" />
+  <van-sidebar-item title="盖浇饭" />
+  <van-sidebar-item title="加料" />
+  <van-sidebar-item title="饮料" />
+</van-sidebar>
+</view>
+<view class="box2">
+<view class="list">
+<view class="scon">汤面</view>
+<view class="item">
+<image src="./img/1.jpeg" mode="" class="img" />
+<view>
+<view class="text">小于黄面</view>
+<view class="text1">￥30</view>	
+</view>
+
+</view>
+</view>
+</view>
+</view>
+
+
+
+

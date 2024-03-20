@@ -1,0 +1,19 @@
+/* compoents/nanshan/nanshan.wxss */
+.box{
+	padding: 0 8px;
+	margin-bottom: 20px;
+}
+.box1{
+	height: 40px;
+	display: flex;
+	line-height: 40px;
+	border-bottom: 2px solid #e7e4dd;
+	font-size: 13px;
+	justify-content: space-between;
+}
+.p{
+	color: #b6b1ad;
+}
+.right{
+	color: #b6b1ad;
+}
